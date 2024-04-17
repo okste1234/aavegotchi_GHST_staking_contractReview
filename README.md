@@ -26,7 +26,7 @@
         </ol>
     </li>
     <li><a href="#conclusion">Conclusion</a></li>
-    <li><a href="#contract's-author">Contract's Author</a></li>
+    <li><a href="#contract-author">Contract's Author</a></li>
     <li><a href="#review-by">Review By</a></li>
 
 </ol>
@@ -718,7 +718,7 @@ This repository implements `contracts/GHSTSTakingDiamond.sol`. This is a diamond
 `StakingFacet.sol` implements functions that enable people to stake their GHST ERC20 tokens, or to stake Uniswap pool tokens from the GHST/ETH pair contract. Staking these earns people frens or frens points which are a non-transferable points system. The frens points are calculated with the `frens` function. The `claimTickets` function enables people to claim or mint up to six different kinds of tokens.  Each different ticket kind has a different frens price which is specified in the `ticketCost` function.
 
 
-## Contract's Author
+## Contract Author
 
 [Nick Mudgen](https://github.com/mudgen) <br>
 [Coderdan](https://github.com/cinnabarhorse) <br>
