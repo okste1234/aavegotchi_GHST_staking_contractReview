@@ -720,9 +720,9 @@ This repository implements `contracts/GHSTSTakingDiamond.sol`. This is a diamond
 
 ## Contract's Author
 
-[Nick Mudgen](https://github.com/mudgen)
-[Coderdan](https://github.com/cinnabarhorse)
-[orionstardust](https://github.com/orionstardust)
+[Nick Mudgen](https://github.com/mudgen) <br>
+[Coderdan](https://github.com/cinnabarhorse) <br>
+[orionstardust](https://github.com/orionstardust) <br>
 
 ## Review By:
 
